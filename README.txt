@@ -1,0 +1,1 @@
+Compile the java file into jar, move the jar and .py script into the directory with the raw spreadsheet data, run the jar. If AnkiConnect is installed and Anki is open, the program will automatically import the formatted cards into your deck for you.
